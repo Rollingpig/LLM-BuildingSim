@@ -1,0 +1,53 @@
+{
+    "name": "house",
+    "room": [
+    {
+    "name": "dining room",
+    "furniture": ["table", "chair", "cabinet"],
+    "appliance": [],
+    "others": []
+    },
+    {
+    "name": "living room",
+    "furniture": ["sofa", "chair", "cabinet", "coffee table"],
+    "appliance": ["tv", "speaker", "lamp", "fan", "air conditioner"],
+    "others": []
+    },
+    {
+    "name": "bedroom",
+    "furniture": ["bed", "chair", "cabinet", "desk"],
+    "appliance": ["tv", "speaker", "lamp", "fan", "air conditioner"],
+    "others": []
+    },
+    {
+    "name": "bathroom",
+    "furniture": ["sink", "cabinet", "shower", "toilet"],
+    "appliance": ["hair dryer", "fan", "air conditioner"],
+    "others": []
+    },
+    {
+    "name": "kitchen",
+    "furniture": ["table", "chair", "cabinet"],
+    "appliance": ["refrigerator", "microwave", "oven", "dishwasher", "sink", "coffee maker", "toaster"],
+    "others": []
+    },
+    {
+    "name": "hallway",
+    "furniture": [],
+    "appliance": [],
+    "others": []
+    },
+    {
+    "name": "garage",
+    "furniture": [],
+    "appliance": [],
+    "others": ["car"]
+    },
+    {
+    "name": "backyard",
+    "furniture": [],
+    "appliance": [],
+    "others": ["swing", "pool"]
+    }
+    ]
+    }
